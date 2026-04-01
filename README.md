@@ -34,12 +34,14 @@ Para rodar este projeto, você precisará do [Python 3.6+](https://www.python.or
 3. Instale as dependências necessárias executando:
    ```bash
    pip install requests
+   ```
    
 Inicie o programa:
-
-Bash
-python/3 countries.py
+   ```bash
+   python/3 countries.py
+   ```
 Exemplo de Uso
+
 Plaintext
 ========================================
    SISTEMA DE CONSULTA DE PAISES
