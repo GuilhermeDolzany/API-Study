@@ -40,9 +40,9 @@ Inicie o programa:
    ```bash
    python/3 countries.py
    ```
-Exemplo de Uso
 
-Plaintext
+## Exemplo de Uso
+
 ========================================
    SISTEMA DE CONSULTA DE PAISES
 ========================================
