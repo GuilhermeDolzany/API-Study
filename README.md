@@ -34,7 +34,6 @@ Para rodar este projeto, você precisará do [Python 3.6+](https://www.python.or
 3. Instale as dependências necessárias executando:
    ```bash
    pip install requests
-   ```
    
 Inicie o programa:
 
