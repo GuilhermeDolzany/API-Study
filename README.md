@@ -64,7 +64,8 @@ Escolha qual informacao voce deseja ver:
 1. Capital
 2. Populacao
 ...
-Tratamento de Erros Implementado
+
+## Tratamento de Erros Implementado
 
 Timeout de Conexão: O programa aguarda até 8 segundos pela resposta da API. Se o servidor estiver instável, a conexão é encerrada de forma limpa.
 
