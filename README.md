@@ -44,27 +44,33 @@ Inicie o programa:
 ## Exemplo de Uso
 
 ========================================
-   SISTEMA DE CONSULTA DE PAISES
+  SISTEMA DE CONSULTA DE PAÍSES
 ========================================
-Digite o nome do pais (ex: Brasil)
-Ou digite '0' para sair.
+
+Digite o nome do país (ex: Brasil)
+ou digite '0' para sair.
 
 Pesquisa: sul
 
-Foram encontrados 3 paises:
-[1] Coreia do Sul
-[2] África do Sul
-[3] Ilhas Geórgia do Sul e Sandwich do Sul
-[0] Cancelar
+Foram encontrados 3 países:
 
-Qual deles voce deseja? Digite o numero: 1
+[1] Coreia do Sul  
+[2] África do Sul  
+[3] Ilhas Geórgia do Sul e Sandwich do Sul  
+[0] Cancelar  
 
---- PAÍS SELECIONADO: COREIA DO SUL ---
-Escolha qual informacao voce deseja ver:
-1. Capital
-2. Populacao
+Qual deles você deseja? Digite o número: 1
+
+----------------------------------------
+ PAÍS SELECIONADO: COREIA DO SUL
+----------------------------------------
+
+Escolha qual informação você deseja ver:
+
+1. Capital  
+2. População  
 ...
-
+0. Voltar
 ## Tratamento de Erros Implementado
 
 Timeout de Conexão: O programa aguarda até 8 segundos pela resposta da API. Se o servidor estiver instável, a conexão é encerrada de forma limpa.
